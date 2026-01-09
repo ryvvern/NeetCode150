@@ -27,3 +27,6 @@ function twoSum(nums, target) {
 
     return []
 }
+
+// TC: O(n)
+// SC: O(n)
