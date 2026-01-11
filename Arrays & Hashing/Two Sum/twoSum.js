@@ -30,3 +30,5 @@ function twoSum(nums, target) {
 
 // TC: O(n)
 // SC: O(n)
+
+module.exports = twoSum

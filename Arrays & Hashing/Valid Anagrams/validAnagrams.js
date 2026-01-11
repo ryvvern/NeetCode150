@@ -25,3 +25,5 @@ function isAnagram(s, t) {
     }
     return true
 }
+
+module.exports = isAnagram

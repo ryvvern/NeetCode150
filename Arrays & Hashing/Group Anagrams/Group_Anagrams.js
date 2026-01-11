@@ -27,3 +27,5 @@ function groupAnagrams(strs) {
     // We only need the group values, not he keys
     return Array.from(groupMap.values())
 }
+
+module.exports = groupAnagrams
