@@ -1,0 +1,7 @@
+Algorithm:
+
+1. Init an empty hash map/set called seen
+2. Loop through each number of the input arr
+3. If number already exists in seen --> return True
+4. Else return False
+5. If the loop ends return False

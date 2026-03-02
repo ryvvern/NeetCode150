@@ -11,4 +11,4 @@ This repository tracks my progress as I solve these problems.
 ## Structure
 
 Problems are organized by topic.  
-Each solution is written clearly with a psuedocode followed by the JavaScript code.
+Each solution is written clearly with a psuedocode followed by the JavaScript/Python code.
