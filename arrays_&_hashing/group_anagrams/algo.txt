@@ -1,0 +1,8 @@
+Pseudo Code
+
+1. If lengths of s and t are different --> return False
+2. Create a hash map to count characters
+3. Iterate over s and increment counts
+4. Iterate over t and decrement counts
+5. if char goes below zero --> return False
+6. if everything balances --> return true
